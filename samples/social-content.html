@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Content Generation Showcase &mdash; Social Post</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Inter:wght@700;800;900&display=swap');
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: #f0f2f5;
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    padding: 20px;
+  }
+
+  .card {
+    width: 540px;
+    height: 540px;
+    background: linear-gradient(145deg, #1c1917 0%, #292524 50%, #44403c 100%);
+    border-radius: 32px;
+    padding: 44px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    box-shadow: 0 20px 60px rgba(0,0,0,0.4);
+    position: relative;
+    overflow: hidden;
+  }
+
+  .card::before {
+    content: '';
+    position: absolute;
+    top: -80px;
+    right: -80px;
+    width: 240px;
+    height: 240px;
+    background: rgba(255,255,255,0.04);
+    border-radius: 50%;
+  }
+
+  .card::after {
+    content: '';
+    position: absolute;
+    bottom: -60px;
+    left: -60px;
+    width: 180px;
+    height: 180px;
+    background: rgba(255,255,255,0.03);
+    border-radius: 50%;
+  }
+
+  .icon-badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    background: rgba(255,255,255,0.1);
+    backdrop-filter: blur(4px);
+    padding: 8px 18px;
+    border-radius: 40px;
+    margin-bottom: 32px;
+    align-self: flex-start;
+    font-size: 13px;
+    font-weight: 700;
+    color: #fbbf24;
+    letter-spacing: 0.3px;
+    text-transform: uppercase;
+    position: relative;
+    z-index: 1;
+  }
+
+  .icon-badge span {
+    font-size: 18px;
+  }
+
+  .main-text {
+    font-size: 34px;
+    font-weight: 900;
+    line-height: 1.25;
+    color: #ffffff;
+    margin-bottom: 20px;
+    letter-spacing: -0.5px;
+    position: relative;
+    z-index: 1;
+  }
+
+  .main-text .highlight {
+    background: linear-gradient(135deg, #fde68a, #f59e0b);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+  }
+
+  .feature-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin: 16px 0 12px;
+    position: relative;
+    z-index: 1;
+  }
+
+  .feature-grid .pill {
+    background: rgba(255,255,255,0.08);
+    backdrop-filter: blur(4px);
+    padding: 10px 18px;
+    border-radius: 40px;
+    font-size: 14px;
+    font-weight: 700;
+    color: #fde68a;
+    letter-spacing: 0.2px;
+  }
+
+  .feature-grid .pill .check {
+    margin-right: 6px;
+    color: #34d399;
+  }
+
+  .timeline {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    background: rgba(255,255,255,0.06);
+    backdrop-filter: blur(4px);
+    padding: 14px 22px;
+    border-radius: 16px;
+    align-self: flex-start;
+    position: relative;
+    z-index: 1;
+    margin-top: 8px;
+  }
+
+  .timeline .icon {
+    font-size: 24px;
+  }
+
+  .timeline .text {
+    font-size: 16px;
+    font-weight: 700;
+    color: #fbbf24;
+    line-height: 1.3;
+  }
+
+  .timeline .text span {
+    color: rgba(255,255,255,0.5);
+    font-weight: 400;
+  }
+
+  .bottom-bar {
+    margin-top: auto;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    position: relative;
+    z-index: 1;
+    padding-top: 20px;
+  }
+
+  .bottom-bar .dot {
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    background: #fbbf24;
+  }
+
+  .bottom-bar .dot:nth-child(2) { opacity: 0.4; }
+  .bottom-bar .dot:nth-child(3) { opacity: 0.2; }
+
+  .bottom-bar .handle {
+    margin-left: auto;
+    font-size: 13px;
+    font-weight: 600;
+    color: rgba(255,255,255,0.5);
+    letter-spacing: 0.3px;
+  }
+</style>
+</head>
+<body>
+<div class="card">
+  <div class="icon-badge">
+    <span>✍️</span> Content AI
+  </div>
+
+  <div class="main-text">
+    AI-generated blog posts<br>
+    <span class="highlight">that rank.</span>
+  </div>
+
+  <div class="feature-grid">
+    <span class="pill"><span class="check">✓</span>1,000+ words</span>
+    <span class="pill"><span class="check">✓</span>SEO-optimized</span>
+    <span class="pill"><span class="check">✓</span>Human-reviewed</span>
+  </div>
+
+  <div class="timeline">
+    <span class="icon">⚡</span>
+    <div class="text">From topic to published <span>in</span> 1 hour</div>
+  </div>
+
+  <div class="bottom-bar">
+    <span class="dot"></span>
+    <span class="dot"></span>
+    <span class="dot"></span>
+    <span class="handle">@content_ai</span>
+  </div>
+</div>
+</body>
+</html>

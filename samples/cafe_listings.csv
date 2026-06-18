@@ -1,0 +1,21 @@
+name,type,rating,reviews,address,phone,website,hours,price,cuisine,lat,lng
+Blue Bottle Coffee,Cafe,4.5,342,"1 Bryant Park, New York, NY 10036",(212) 555-0101,bluebottlecoffee.com,7:00 AM - 7:00 PM,$$,Coffee & Tea,40.7558,-73.9845
+Stumptown Coffee Roasters,Cafe,4.6,528,"18 W 29th St, New York, NY 10001",(212) 555-0102,stumptowncoffee.com,6:30 AM - 8:00 PM,$$,Coffee & Tea,40.7462,-73.9876
+Cafe Grumpy,Cafe,4.4,215,"224 W 20th St, New York, NY 10011",(212) 555-0103,cafegrumpy.com,7:00 AM - 7:30 PM,$$,Coffee Shop,40.7426,-73.9978
+La Colombe Coffee,Cafe,4.5,401,"270 Lafayette St, New York, NY 10012",(212) 555-0104,lacolombe.com,7:00 AM - 8:00 PM,$$,Coffee & Tea,40.7245,-73.9968
+Birch Coffee,Cafe,4.3,289,"134 1/2 E 27th St, New York, NY 10016",(212) 555-0105,birchcoffee.com,7:00 AM - 9:00 PM,$,Coffee Shop,40.7426,-73.9832
+Katz's Delicatessen,Restaurant,4.7,12500,"205 E Houston St, New York, NY 10002",(212) 555-0106,katzsdelicatessen.com,8:00 AM - 10:00 PM,$$,Deli,40.7222,-73.9873
+Joe's Pizza,Restaurant,4.6,8700,"7 Carmine St, New York, NY 10014",(212) 555-0107,joespizzanyc.com,10:00 AM - 2:00 AM,$,Pizza,40.7303,-74.0015
+Russ & Daughters Cafe,Restaurant,4.5,3200,"127 Orchard St, New York, NY 10002",(212) 555-0108,russanddaughterscafe.com,8:00 AM - 10:00 PM,$$$,Jewish / Appetizing,40.7198,-73.9893
+Ivan Ramen,Restaurant,4.4,2100,"25 Clinton St, New York, NY 10002",(212) 555-0109,ivanramen.com,11:00 AM - 10:00 PM,$$,Ramen,40.7211,-73.9844
+Maman,Cafe,4.3,567,"80 Kent St, Brooklyn, NY 11222",(212) 555-0110,mamannyc.com,7:00 AM - 6:00 PM,$$,French Cafe,40.7225,-73.959
+Devocion,Cafe,4.5,723,"69 Grand St, Brooklyn, NY 11249",(212) 555-0111,devocion.com,7:00 AM - 7:00 PM,$$,Coffee & Tea,40.7156,-73.964
+Shake Shack,Restaurant,4.4,15300,"Madison Square Park, New York, NY 10010",(212) 555-0112,shakeshack.com,11:00 AM - 11:00 PM,$$,Burgers,40.7405,-73.9881
+Eataly NYC Flatiron,Restaurant,4.4,9800,"200 5th Ave, New York, NY 10010",(212) 555-0113,eataly.com,8:00 AM - 11:00 PM,$$$,Italian,40.7417,-73.9894
+Veselka,Restaurant,4.5,4500,"144 2nd Ave, New York, NY 10003",(212) 555-0114,veselka.com,24 Hours,$$,Ukrainian,40.7288,-73.9864
+Jack's Wife Freda,Restaurant,4.4,2800,"226 Lafayette St, New York, NY 10012",(212) 555-0115,jackswifefreda.com,8:00 AM - 10:00 PM,$$,Mediterranean,40.7256,-73.997
+Taco Bell,Restaurant,3.8,12000,"285 Grand St, New York, NY 10002",(212) 555-0116,tacobell.com,7:00 AM - 2:00 AM,$,Mexican Fast Food,40.7176,-73.9907
+Chipotle,Restaurant,4.1,8900,"140 W 23rd St, New York, NY 10011",(212) 555-0117,chipotle.com,10:45 AM - 10:00 PM,$,Mexican,40.7432,-73.9941
+Ess-a-Bagel,Restaurant,4.5,3400,"359 1st Ave, New York, NY 10010",(212) 555-0118,ess-a-bagel.com,6:00 AM - 4:00 PM,$,Bagels,40.7361,-73.9812
+Xi'an Famous Foods,Restaurant,4.4,2300,"81 St Marks Pl, New York, NY 10003",(212) 555-0119,xianfoods.com,11:30 AM - 9:30 PM,$,Chinese,40.7275,-73.9856
+Maison Kayser,Cafe,4.3,980,"1294 3rd Ave, New York, NY 10021",(212) 555-0120,maisonkayser.com,7:00 AM - 8:00 PM,$$,French Bakery,40.7712,-73.9597
