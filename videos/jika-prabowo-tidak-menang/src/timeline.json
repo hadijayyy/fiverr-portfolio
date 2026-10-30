@@ -1,0 +1,137 @@
+{
+ "voiceEnd": 57.32,
+ "lines": [
+  {
+   "scene": "hook",
+   "text": "Kalau Prabowo tidak menang di Pilpres 2024,",
+   "start": 0.5,
+   "end": 3.425
+  },
+  {
+   "scene": "hook",
+   "text": "apa yang berubah di Indonesia?",
+   "start": 3.475,
+   "end": 4.938
+  },
+  {
+   "scene": "branch",
+   "text": "Faktanya, KPU menetapkan Prabowo–Gibran menang satu putaran",
+   "start": 5.238,
+   "end": 8.314
+  },
+  {
+   "scene": "branch",
+   "text": "dengan 58,6 persen suara sah.",
+   "start": 8.314,
+   "end": 10.799
+  },
+  {
+   "scene": "branch",
+   "text": "Dalam skenario lain, presidennya bisa Anies–Muhaimin atau Ganjar–Mahfud,",
+   "start": 10.999,
+   "end": 14.795
+  },
+  {
+   "scene": "branch",
+   "text": "mungkin lewat putaran kedua.",
+   "start": 14.795,
+   "end": 16.2
+  },
+  {
+   "scene": "budget",
+   "text": "Pertama, anggaran.",
+   "start": 16.55,
+   "end": 17.485
+  },
+  {
+   "scene": "budget",
+   "text": "Prabowo–Gibran mengusung makan siang dan susu gratis.",
+   "start": 17.585,
+   "end": 20.133
+  },
+  {
+   "scene": "budget",
+   "text": "Anies–Muhaimin menonjolkan perumahan rakyat.",
+   "start": 20.183,
+   "end": 22.285
+  },
+  {
+   "scene": "budget",
+   "text": "Ganjar–Mahfud: KTP Sakti dan satu desa, satu faskes, satu nakes.",
+   "start": 22.335,
+   "end": 26.143
+  },
+  {
+   "scene": "budget",
+   "text": "Porsi anggaran berpotensi bergeser.",
+   "start": 26.193,
+   "end": 27.876
+  },
+  {
+   "scene": "coalition",
+   "text": "Kedua, koalisi. Tak satu kubu pun",
+   "start": 28.176,
+   "end": 30.173
+  },
+  {
+   "scene": "coalition",
+   "text": "menguasai mayoritas DPR.",
+   "start": 30.173,
+   "end": 31.716
+  },
+  {
+   "scene": "coalition",
+   "text": "Pemenang mana pun perlu merangkul partai lain.",
+   "start": 31.766,
+   "end": 34.03
+  },
+  {
+   "scene": "pace",
+   "text": "Ketiga, kecepatan. Prabowo–Gibran berjanji melanjutkan Ibu Kota Nusantara;",
+   "start": 34.33,
+   "end": 38.265
+  },
+  {
+   "scene": "pace",
+   "text": "Ganjar–Mahfud secara bertahap; Anies–Muhaimin mendahulukan kebutuhan dasar.",
+   "start": 38.265,
+   "end": 41.98
+  },
+  {
+   "scene": "limits",
+   "text": "Tapi presiden tidak bekerja sendiri.",
+   "start": 42.33,
+   "end": 44.107
+  },
+  {
+   "scene": "limits",
+   "text": "Undang-undang dan APBN dibahas bersama DPR,",
+   "start": 44.207,
+   "end": 46.726
+  },
+  {
+   "scene": "limits",
+   "text": "birokrasi menjalankan, dan kondisi ekonomi membatasi ruang belanja.",
+   "start": 46.726,
+   "end": 50.092
+  },
+  {
+   "scene": "outro",
+   "text": "Jadi, arah prioritas mungkin berubah,",
+   "start": 50.492,
+   "end": 52.466
+  },
+  {
+   "scene": "outro",
+   "text": "tetapi hasilnya bergantung pada pelaksanaan.",
+   "start": 52.466,
+   "end": 54.66
+  },
+  {
+   "scene": "outro",
+   "text": "Menurutmu, kebijakan apa yang paling mungkin berbeda?",
+   "start": 55.01,
+   "end": 57.32
+  }
+ ]
+}
